@@ -1,0 +1,6 @@
+
+class ListHealthInsurancesUseCase {
+
+}
+
+export { ListHealthInsurancesUseCase }
