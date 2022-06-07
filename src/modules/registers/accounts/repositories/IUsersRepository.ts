@@ -1,4 +1,4 @@
-import { IUserDTO } from "../dto/IUsersDTO";
+import { IUserDTO } from "../dtos/IUsersDTO";
 import { User } from "../infra/entities/User" 
 
 interface IUsersRepository {

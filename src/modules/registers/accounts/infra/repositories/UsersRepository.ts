@@ -1,5 +1,5 @@
 import { getRepository, Repository } from "typeorm";
-import { IUserDTO } from "../../dto/IUsersDTO";
+import { IUserDTO } from "../../dtos/IUsersDTO";
 import { IUsersRepository } from "../../repositories/IUsersRepository";
 import { User } from "../entities/User";
 
